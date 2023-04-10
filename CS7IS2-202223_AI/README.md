@@ -1,0 +1,3 @@
+# CS7IS2-202223_AI
+
+Assignmets of CS7IS2-202223 AI (2023)
